@@ -7,6 +7,14 @@
    <VERSION>0.1</VERSION>
    <REPOSITORY_TYPE>abapGit</REPOSITORY_TYPE>
    <GIT_URL>https://github.com/kvskesari/ZPACK_APPL.git</GIT_URL>
+   <DEPENDENCIES>
+    <item>
+     <GROUP_ID>SMARTSHIFT</GROUP_ID>
+     <ARTIFACT_ID>PACKAGE-DDIC</ARTIFACT_ID>
+     <VERSION>0.1</VERSION>
+     <GIT_URL>https://github.com/kvskesari/ZPACK_DDIC.git</GIT_URL>
+    </item>
+   </DEPENDENCIES>
   </DATA>
  </asx:values>
 </asx:abap>
